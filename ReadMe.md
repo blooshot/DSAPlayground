@@ -1,1 +1,1 @@
-# Practicing Interview Coding | Leet Code | DSA
+# Interview Coding | Leet Code | DSA
